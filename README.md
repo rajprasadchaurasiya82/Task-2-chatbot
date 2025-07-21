@@ -92,3 +92,5 @@ Client JS (client.js) – Manages all client-side socket events
 This project gave me hands-on experience in building full-stack real-time web applications. I learned how to create a real-time experience using WebSocket technology, especially how Socket.IO handles bi-directional events with ease. The app is scalable and can be expanded to include usernames, private rooms, notifications, or even user authentication in the future.
 
 #output
+
+<img width="1822" height="895" alt="Image" src="https://github.com/user-attachments/assets/3530f3d4-ce77-4721-9a88-29b95fdfd740" />
