@@ -14,6 +14,9 @@
 
 💬 Real-Time Chat Application – Project Report
 
+🚀 Live Website
+🔗 https://rajprasadchaurasiya82.github.io/Task-2-chatbot/
+
 📘 Introduction
 
 This project is a real-time web-based chat application that enables multiple users to communicate instantly. It is built using Node.js, Express, and Socket.IO, offering a smooth and interactive messaging experience. The goal of this project was to understand how WebSocket-based communication works and how frontend and backend can integrate seamlessly in a live chat system.
